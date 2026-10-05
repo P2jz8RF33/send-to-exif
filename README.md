@@ -13,3 +13,5 @@ ulozit exif.ps1 i exif.cmd
 win+r > spustit > shell:sendto
 v otevrenem adresari udelat zastupce exif.cmd
 upravit v exif.cmd cestu k exif.ps1 (xxxx)
+
+#ai #vibe 
